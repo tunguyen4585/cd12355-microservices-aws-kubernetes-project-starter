@@ -1,0 +1,5 @@
+{
+    "yaml.schemas": {
+        "kubernetes://schema/apps/v1%40deployment": "file:///home/tunv/Desktop/cd12355-microservices-aws-kubernetes-project-starter/deployment/coworking.yaml"
+    }
+}
